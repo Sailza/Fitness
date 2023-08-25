@@ -17,21 +17,21 @@ const Contact = () => {
 				<div className="container contact__container">
 					<div className="contact__wrapper">
 						<a
-							href="mailto:it.eniolaademola@gmail.com"
+							href="mailto:it.shailzagupta@gmail.com"
 							target="_blank"
 							rel="noreferrer noopener"
 						>
 							<MdEmail />
 						</a>
 						<a
-							href="https://www.facebook.com/eniola.ademola.1610/"
+							href="https://www.facebook.com/sailza gupta/"
 							target="_blank"
 							rel="noreferrer noopener"
 						>
 							<BsMessenger />
 						</a>
 						<a
-							href="https://wa.me/+2347013909098"
+							href="https://wa.me/+6203578708"
 							target="_blank"
 							rel="noreferrer noopener"
 						>
